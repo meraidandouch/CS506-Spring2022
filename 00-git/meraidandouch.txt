@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 finished exercise 3
 ...
+=======
+>>>>>>> parent of a954153 (finished exercise 3)
